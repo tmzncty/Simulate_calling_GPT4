@@ -17,3 +17,6 @@ pip install pyautogui keyboard pynput
 2、选中你需要的询问ChatGPT的部分，CTRL+C（我这边绝对不是因为懒所以连CTRL+C都不加）。<br>
 3、按下你设置的快捷键（看文件）。<br>
 4、享受懒人的生活。<br>
+
+
+**感谢GPT3.5和GPT4完成了这些代码。**
